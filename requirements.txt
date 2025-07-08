@@ -1,0 +1,15 @@
+httpx
+groq
+
+fastapi
+uvicorn
+python-multipart
+
+python-dotenv
+pydantic
+
+google-auth
+google-auth-oauthlib
+requests
+numpy
+Pillow
