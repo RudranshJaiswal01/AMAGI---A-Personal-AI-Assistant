@@ -1,0 +1,13 @@
+requests
+
+google-auth
+
+google-auth-oauthlib
+
+pyautogui
+
+speechrecognition
+
+pyaudio
+
+Pillow
